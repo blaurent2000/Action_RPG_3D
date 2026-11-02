@@ -1,0 +1,18 @@
+
+# Fichiers générés par CMake
+build/
+cmake-build-*/
+
+# Fichiers compilés
+*.o
+*.a
+*.so
+*.exe
+
+# Configuration locale des éditeurs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
